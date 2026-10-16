@@ -1,0 +1,20 @@
+[
+    {
+        "number": "001",
+        "owner": "Иванов",
+        "balance": 15000.0,
+        "account_type": "текущий"
+    },
+    {
+        "number": "002",
+        "owner": "Петрова",
+        "balance": 3000.0,
+        "account_type": "сберегательный"
+    },
+    {
+        "number": "003",
+        "owner": "Сидорова",
+        "balance": 25000.0,
+        "account_type": "текущий"
+    }
+]
